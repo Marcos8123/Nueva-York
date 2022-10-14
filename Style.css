@@ -1,0 +1,62 @@
+body{
+text-align: center;
+background-image: url("https://images.unsplash.com/photo-1500916434205-0c77489c6cf7?ixlib=rb-1.2.1&w=1080&fit=max&q=80&fm=jpg&crop=entropy&cs=tinysrgb"); 
+background-size: cover;   
+}
+h1{
+font-family:Arial, Helvetica, sans-serif;
+font-size:30px;
+}
+h2{
+font-family:Arial, Helvetica, sans-serif ;
+font-size:30px;
+}
+h3{
+font-family: Arial, Helvetica, sans-serif;
+font-size:30px;
+}
+h4{
+font-family: Arial, Helvetica, sans-serif;
+font-size:30px;
+color:red;
+}
+h5{
+font-family: Arial, Helvetica, sans-serif;
+font-size:30px;
+color:red;
+}
+h6{
+font-family: Arial, Helvetica, sans-serif;
+font-size:30px;
+color:black;
+}
+h7{
+font-family: Arial, Helvetica, sans-serif;
+font-size:30px;
+color: red;    
+}
+h8{
+font-family: Arial, Helvetica, sans-serif;
+font-size:30px;
+color: azure;
+}
+h9{
+font-family: Arial, Helvetica, sans-serif;
+font-size:30px;
+color: azure;
+}
+h10{
+font-family: Arial, Helvetica, sans-serif;
+font-size:30px;
+color: azure;
+}
+h11{
+font-family: Arial, Helvetica, sans-serif; 
+font-size:30px;
+color: azure;
+}
+h12{
+font-family: Arial, Helvetica, sans-serif;
+font-size:30px;
+color:red;
+}
